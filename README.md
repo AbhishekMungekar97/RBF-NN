@@ -1,5 +1,4 @@
 ## Radial-Basis-Function---Neural-Network ( For Function Approximation) 
-### - Function Approximation using a Non-linear Gaussian kernal Functions for varying spread parameters. 
 ### - I have tried approximating a simplistic function (a circle where every data point within the circle is labelled as 1, while everything outside it as -1) as a Radial Basis Fucntion Based Neural Network.
 ### - In this network, there are two crucial parameters :-
 ####  - Determining the centers of inidividual RBF nodes ( in the hidden layer of the Neural Network)
